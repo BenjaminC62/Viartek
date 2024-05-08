@@ -17,7 +17,7 @@ Pour visualiser le site, suivez ces étapes simples :
 - Si vous avez téléchargé le projet au format compressé (par exemple, en tant que fichier ZIP ou RAR), veuillez d'abord extraire les dossiers avant de suivre les étapes ci-dessus.
 
 Merci de votre participation et bonne exploration !
-Cordialement, Benjamin Cornet et Mathias Morel
+Cordialement, Pikablok et Tatas
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ To view the website, follow these simple steps:
 - If you have downloaded the project in a compressed format (e.g., as a ZIP or RAR file), please extract the folders first before following the above steps.
 
 Thank you for your participation, and happy exploring!
-Sincerely, Benjamin Cornet and Mathias Morel
+Sincerely, Pikablok and Mathias
